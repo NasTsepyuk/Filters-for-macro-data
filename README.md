@@ -1,7 +1,7 @@
 # Filters for macro data
 Example of using Christiano-Fitzgerald, Baxter-King, Hodrick-Prescott filters in macroeconomics
 ## Task of the Project
-1. To estimate potential output using various one-dimensional smoothing metods (filters).
+1. Estimate potential output using various one-dimensional smoothing metods (filters).
 2. Estimate the contributions of labor and capital to economic growth under the assumption that
 potential output is described by the Cobb-Douglas production function and depends
 only on labor and capital. 
