@@ -11,7 +11,7 @@ only on labor and capital.
 Data was collected for United Kingdom from  [www.rug.nl](https://www.rug.nl/ggdc/productivity/pwt/?lang=en) which contains information about relative levels of income, output, input and productivity, covering 183 countries between 1950 and 2019.
 ## Variables description
 In the file with data `pwt100.xlsx`:
-* `year` - year of observation
+* `year` - Year of the observation
 * `rgdpna` - Real GDP at constant 2017 national prices (in mil. 2017US$)
 * `rnna` - Capital stock at constant 2017 national prices (in mil. 2017US$)
 * `emp` - Number of persons engaged (in millions)
